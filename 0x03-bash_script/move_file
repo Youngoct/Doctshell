@@ -1,0 +1,3 @@
+#!/bin/bash
+vim ginues
+mv ginues 0x03-bash_script
